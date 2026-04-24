@@ -21,4 +21,4 @@ AND req_reqno IN
 			)
 		)
 	)
-ORDER BY labno DESC
+ORDER BY labno DESC;
